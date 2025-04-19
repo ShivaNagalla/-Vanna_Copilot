@@ -199,4 +199,4 @@ ollama run llama3
 | PGAdmin Email | `sn964723@ohio.edu`  |
 | PGAdmin Password | `pga1234`       |
 | PostgreSQL Username | `postgres`  |
-| PostgreSQL Password | `pg1234`    |"# -Vanna_Copilot" 
+| PostgreSQL Password | `pg1234`    |
